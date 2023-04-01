@@ -1,0 +1,7 @@
+{
+  "start": "node payment.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "razorpay": "^2.8.6"
+  }
+}
